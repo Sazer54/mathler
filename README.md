@@ -3,3 +3,5 @@ A mathematical puzzle game developed in C as part of the low-level programming c
 
 Heavily inspired by the already-existing game of the same name:
 https://www.mathler.com/
+
+For the rules, see Mathler/rules.md
